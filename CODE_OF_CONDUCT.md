@@ -1,15 +1,16 @@
 # Code of Conduct
 
 ## Our Pledge
-We aim to create a respectful and welcoming environment for everyone.
+We aim to maintain a respectful and welcoming environment for everyone.
 
 ## Expected Behaviour
-- Treat everyone with respect.
+- Treat everyone respectfully.
 - Communicate politely.
 - Accept constructive feedback.
+- Avoid harassment and discrimination.
 
 ## Reporting Issues
-Report any concerns to the repository owner through GitHub.
+Report inappropriate behaviour to the repository owner through GitHub.
 
 ## Contact
-Contact the repository owner through GitHub.
+Contact the repository owner through GitHub if you have any concerns.
